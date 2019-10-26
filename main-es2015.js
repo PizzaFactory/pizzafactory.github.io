@@ -343,7 +343,7 @@ let AppComponent = class AppComponent {
             {
                 title: 'PizzaFactory/Cassa',
                 summary: 'Payment processor SaaS based on BTCPayServer.',
-                url: 'https://btcpay.pizzafactory.jp/',
+                url: 'https://btcpay.c.pizzafactory.jp/',
                 tags: ['Released', 'Open Alpha Preview']
             },
         ];
