@@ -1,0 +1,9 @@
+.numbering {
+  margin: 0;
+  counter-reset: number;
+}
+.numbering p::before {
+  counter-increment: number;
+  content: counter(number);
+  padding-right: 5px;
+}
