@@ -32,7 +32,59 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("    <div class=\"navbar-fixed\">\n        <nav class=\"blue darken-1\">\n            <div class=\"nav-wrapper container\">\n\t\t <a href=\"#\" class=\"brand-logo\">{{title}}</a>\n            </div>\n        </nav>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"section\">\n            <h5>Table of Projects</h5>\n\t    <ng-container *ngFor=\"let project of projects\">\n                <div class=\"row\">\n                    <div class=\"col s12 m6\">\n                        <div class=\"row\">\n                            <div class=\"col s12\">\n                                <div class=\"card\">\n                                    <div class=\"card-content\">\n    \t\t\t\t\t<span class=\"card-title\">{{project.title}}</span>\n    \t\t\t\t\t<p>{{project.summary}}</p>\n                                    </div>\n                                    <div class=\"card-action\">\n                                        <a href=\"{{project.url}}\">Jump</a>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\t    </ng-container>\n        </div>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"footer-copyright\">Copyright &copy; 2019- PizzaFactory Project, all rights reserved.</div>\n    </div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"navbar-fixed\">\n  <nav class=\"blue darken-1\">\n    <div class=\"nav-wrapper container\">\n      <a href=\"#\" class=\"brand-logo\">PizzaFactory Project</a>\n    </div>\n  </nav>\n</div>\n<router-outlet></router-outlet>\n\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-en.component.html":
+/*!*******************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-en.component.html ***!
+  \*******************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"container\">\n  <h1>Privacy Policy</h1>\n  \n  Last updated: Jan 1, 2019\n  \n  <h2>Glossary</h2>\n  <dl>\n    <dt>Our sites</dt>\n    <dd>Web services that provided on DNS name pizzafactory.jp and its subdomains.</dd>\n    <dt>Coolies</dt>\n    <dd>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.</dd>\n  </dl> \n  \n  <h2>Privacy Policy</h2>\n  <p class=\"numbering\">PizzaFactory operates \"Our sites\". This site informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.</p>\n  <p class=\"numbering\">At \"Our sites\", we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit \"Our sites\", and how we safeguard your information.  We never sell your personal information to third parties.</p>\n  <p class=\"numbering\">We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.</p>\n  \n  <h3>Log Files</h3>\n  <p class=\"numbering\">As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this.</p>\n  \n  <h3>Cookies and Web Beacons</h3>\n  <p class=\"numbering\">Like many sites, we use \"cookies\" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of \"Our sites\".</p>\n  <p class=\"numbering\">We also use third party advertisements on to support \"Our sites\".  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing PNG real estate ads to someone in PNG, for example) or showing certain ads based on specific sites visited.\n  \n  <h3>DoubleClick DART cookies</h3>\n  \n  <p class=\"numbering\"> We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).</p>\n  <p class=\"numbering\">The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Tokyo, you may see Tokyo hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.</p>\n  <p class=\"numbering\"> You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx .</p>\n  <p class=\"numbering\">You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.</p>\n  <p class=\"numbering\">Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.</p>\n  \n  <h3>Information Collection And Use</h3>\n  <p class=\"numbering\">While using \"Our sites\", we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name.</p>\n  \n  <h3>Communications</h3>\n  <p class=\"numbering\">We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that.</p>\n  <p class=\"numbering\">The Communications section is for businesses that may contact users via email (email newsletters) or other methods.</p>\n  \n  <h3>Security</h3>\n  <p class=\"numbering\">The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>\n  \n  <h3>Changes To This Privacy Policy</h3>\n  <p class=\"numbering\">This Privacy Policy is effective as of the date top of this article and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>\n  <p class=\"numbering\">We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>\n  <p class=\"numbering\">If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p>\n  \n  <h3>Contact Us</h3>\n  \n  <p class=\"numbering\">If you have any questions about this Privacy Policy, please contact <a href=\"mailto:support@pizzafactory.jp\">us</a>.</p>\n</div>  \n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-ja.component.html":
+/*!*******************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-ja.component.html ***!
+  \*******************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"container\">\n  <h1>プライバシーポリシー</h1>\n  Last updated: Jan 1, 2019\n  \n  <h2>Glossary</h2>\n  <dl>\n    <dt>Our sites</dt>\n    <dd>Web services that provided on DNS name pizzafactory.jp and its subdomains.</dd>\n    <dt>Coolies</dt>\n    <dd>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.</dd>\n  </dl> \n  \n   \n  <h2>プライバシーポリシー</h2>\n  <p class=\"numbering\">PizzaFactory は、\"Our sites\"を運営しています。このサイトは、収集、使用、個人情報の開示に関する私たちのポリシーをあなたにお知らせします。</p>\n  <p class=\"numbering\"> \"Our sites\" において、私たちはあなたの個人情報のプライバシーを守ることは重要であると認識しています。ここには、あなたが \"Our sites\" を訪れたときに、私たちがどのようなタイプの個人情報を受け取ったり、収集しているか、そしてどのように私たちがあなたの情報を保護しているかが書かれています。私たちは決してあなたの個人情報を第三者に売ったりしません。</p>\n  <p class=\"numbering\">私たちは、あなたの個人情報をこのサイトのため、このサイトの改善のためだけに使います。このサイトを利用するにあたり、ポリシーの通りに情報の収集・利用することを同意します。</p>\n  \n  <h3>ログ　ファイル</h3>\n  <p class=\"numbering\">ほとんどの他のサイトと同様に、私たちは、ログファイルを含んだデータを収集・利用しています。あなたのIPアドレス、ISP（AOLやShaw Cableのようなインターネットサービスプロバイダー）、私たちのサイトを訪れた時に使ったブラウザー、私たちのサイトに訪れた時間やその時にどのページを訪れたかを含めたログファイルがその情報です。加えて、データの収集・モニター・分析のためにグーグルアナリティクスのような第三者のサービスに使うかもしれません。</p>\n  \n  <h3>クッキー＆ウェブビーコン</h3>\n  <p class=\"numbering\">多くのサイトのように、私たちは収集した情報を”クッキー”として使います。あなたのブラウザーに全てのクッキーを拒否するようにしたり、クッキーが送られてきたときに指摘することもできます。しかし、あなたがクッキーを承諾しないと、私たちのサイトの中身を利用することはできないかもしれません。</p>\n  <p class=\"numbering\">私たちはまた、\"Our sites\" をサポートするために第三者の広告を使います。　いくつかの広告では、その広告を私たちのサイトで流すときに、クッキーやウェブビーコンのようなテクノロジーを使うかもしれません。そして、それによりグーグルアドセンスのようなこれらの広告に、あなたのIPアドレスやISPお使いのブラウザー情報など、時にはFlashがインストールされているかなどの情報が含まれます。これは、一般的には、地域特定の目的（例えば、PNG不動産の広告をPNGの誰かに見せるため）だったり、ある広告を特定のサイトを訪れた人に見せるためです。</p>\n  \n  <h3>ダブルクリック DART クッキー</h3>\n  <p class=\"numbering\">私たちはまた、グーグルのダブルクリックのサービス広告のために、DARTクッキーを使うかもしれません。それは、あなたがウェブサイトを見ていて、グーグルアドセンスの広告のような二回クリックする広告を使った時にあなたのコンピューターのクッキーに提起します。このクッキーは、あなたやあなたの興味関心に特定の広告を出すために使われています。</p>\n  <p class=\"numbering\">広告はあなたの今までのページ観覧履歴をベースに提供されます。（例えば、あなたが東京に行くことを調べるサイトを多く見ていた時は、東京のホテルの広告がそれに関係していないサイトを見ている時にも提供されるかもしれません）DARTは、”個人を特定する情報”は使いません。そのため、名前やメールアドレス、住所、電話番号、ソーシャルセキュリティーナンバー、銀行口座、クレジットカード番号などのあなたの個人情報を突き止めるものではありません。</p>\n  <p class=\"numbering\">この広告サービスを利用したくないときは、http://www.doubleclick.com/privacy/dart_adserving.aspxに行くと、全てのこのような広告を使っているサイトのこのようなサービスの利用を防ぐことができます。</p>\n  <p class=\"numbering\">あなたのブラウザー設定やノートンインターネットセキュリティーようなプログラムの選択を管理することで、私たちのクッキーや第三者のクッキーを使えないようにしたり、選択して拒否したり選ぶことができます。しかし、この設定によりサービスやプログラムにログインできなくなリます。</p>\n  <p class=\"numbering\">クッキーを削除することは、あなたが永久にそれらの広告プログラムから脱退したということではありません。あなたがクッキーを許可しないセッティングにしている限り、次にあなたが広告が運営されているサイトに訪れた時、新しいクッキーが追加されるでしょう。</p>\n  \n  <h3>情報収集と利用</h3>\n  <p class=\"numbering\">私たちのサイトを利用していただくにあたり、コンタクトで使ったようなあなただとわかるような個人を特定できる情報を私たちに提供することを承諾していただかなくてはなりません。個人を特定できる情報が含まれますが、あなたの名前に限定されるものではありません。</p>\n  \n  <h3>コミュニケーションズ</h3>\n  <p class=\"numbering\">私たちは、ニュースレターの送付やマーケティング、販売促進、他の情報などのためにあなたの個人情報を使うかもしれません。</p>\n  <p class=\"numbering\">通信部では、Eメール経由、Eメールニュースレターまたは他の方法でビジネスに関しての連絡をします。</p>\n  \n  <h3>セキュリティー</h3>\n  <p class=\"numbering\">あなたの個人情報のセキュリティは私たちにとって重要ですが、100％安全なインターネット上の転送方法や電子的な保存方法はありません。私たちはあなたの個人情報を保護するために商業的に受け入れられる手段を使用するよう努めますが、その絶対的なセキュリティを保証することはできません。</p>\n  \n  <h3>プライバシーポリシーの変更</h3>\n  <p class=\"numbering\">このプライバシーポリシーは本文書の先頭にある日付時点で有効であり、このページに掲載された直後に有効になる、将来の規定の変更を除いて有効です。</p>\n  <p class=\"numbering\">私達は私達のプライバシーポリシーをいつでも更新または変更する権利を留保します、そしてあなたはこのプライバシーポリシーを定期的にチェックするべきです。このページのプライバシーポリシーに変更を加えた後も、サービスを継続して使用することは、変更を承認したこと、および変更されたプライバシーポリシーを遵守することに同意することを意味します。</p>\n  <p class=\"numbering\">このプライバシーポリシーに重大な変更を加えた場合は、提供された電子メールアドレスを使用するか、または当社のWebサイトに目立つように通知することにより、通知します。</p>\n  \n  <h3>お問い合わせ</h3>\n  <p class=\"numbering\">このプライバシーポリシーに質問がある場合は、<a href=\"mailto:support@pizzafactory.jp\">お問い合わせ</a>からご連絡ください。</p>\n</div>\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy.component.html":
+/*!****************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy.component.html ***!
+  \****************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<p>privacy-policy works!</p>\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/projects/projects.component.html":
+/*!****************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/projects/projects.component.html ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("    <div class=\"container\">\n        <div class=\"section\">\n            <h5>Table of Projects</h5>\n\t    <ng-container *ngFor=\"let project of projects\">\n                <div class=\"row\">\n                    <div class=\"col s12 m6\">\n                        <div class=\"row\">\n                            <div class=\"col s12\">\n                                <div class=\"card\">\n                                    <div class=\"card-content\">\n    \t\t\t\t\t<span class=\"card-title\">{{project.title}}</span>\n    \t\t\t\t\t<p>{{project.summary}}</p>\n                                    </div>\n                                    <div class=\"card-action\">\n                                        <a href=\"{{project.url}}\">Jump</a>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\t    </ng-container>\n        </div>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"footer-copyright\">Copyright &copy; 2019- PizzaFactory Project, all rights reserved.</div>\n    </div>\n");
 
 /***/ }),
 
@@ -278,10 +330,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+/* harmony import */ var _privacy_policy_privacy_policy_en_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./privacy-policy/privacy-policy-en.component */ "./src/app/privacy-policy/privacy-policy-en.component.ts");
+/* harmony import */ var _privacy_policy_privacy_policy_ja_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./privacy-policy/privacy-policy-ja.component */ "./src/app/privacy-policy/privacy-policy-ja.component.ts");
+/* harmony import */ var _projects_projects_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./projects/projects.component */ "./src/app/projects/projects.component.ts");
 
 
 
-const routes = [];
+
+
+
+const routes = [
+    { path: '', redirectTo: '/projects', pathMatch: 'full' },
+    { path: 'projects', component: _projects_projects_component__WEBPACK_IMPORTED_MODULE_5__["ProjectsComponent"] },
+    { path: 'en/privacy-policy', component: _privacy_policy_privacy_policy_en_component__WEBPACK_IMPORTED_MODULE_3__["PrivacyPolicyEnComponent"] },
+    { path: 'ja/privacy-policy', component: _privacy_policy_privacy_policy_ja_component__WEBPACK_IMPORTED_MODULE_4__["PrivacyPolicyJaComponent"] },
+];
 let AppRoutingModule = class AppRoutingModule {
 };
 AppRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
@@ -322,31 +385,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 
 
-class Project {
-}
 let AppComponent = class AppComponent {
-    constructor() {
-        this.title = 'PizzaFactory Project';
-        this.projects = [
-            {
-                title: 'PizzaFactory/Camino',
-                summary: 'Cloud IDE PaaS for your customized Eclipse/Che workspaces.',
-                url: 'https://camino.pizzafactory.jp/',
-                tags: ['Released', 'Open Alpha Preview']
-            },
-            {
-                title: 'PizzaFactory/Contorno',
-                summary: '"Side dish" collection for Eclipse/Che7 based environments.',
-                url: 'https://contorno.pizzafactory.jp/',
-                tags: ['Released', 'Working']
-            },
-            {
-                title: 'PizzaFactory/Cassa',
-                summary: 'Payment processor SaaS based on BTCPayServer.',
-                url: 'https://btcpay.c.pizzafactory.jp/',
-                tags: ['Released', 'Open Alpha Preview']
-            },
-        ];
+    constructor() { }
+    ngOnInit() {
     }
 };
 AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
@@ -376,6 +417,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
+/* harmony import */ var _privacy_policy_privacy_policy_module__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./privacy-policy/privacy-policy.module */ "./src/app/privacy-policy/privacy-policy.module.ts");
+/* harmony import */ var _projects_projects_module__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./projects/projects.module */ "./src/app/projects/projects.module.ts");
+
+
 
 
 
@@ -385,17 +430,265 @@ let AppModule = class AppModule {
 };
 AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
-        declarations: [
-            _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]
-        ],
+        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]],
         imports: [
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
-            _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"]
+            _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"],
+            _projects_projects_module__WEBPACK_IMPORTED_MODULE_6__["ProjectsModule"],
+            _privacy_policy_privacy_policy_module__WEBPACK_IMPORTED_MODULE_5__["PrivacyPolicyModule"]
         ],
         providers: [],
         bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
     })
 ], AppModule);
+
+
+
+/***/ }),
+
+/***/ "./src/app/privacy-policy/privacy-policy-en.component.ts":
+/*!***************************************************************!*\
+  !*** ./src/app/privacy-policy/privacy-policy-en.component.ts ***!
+  \***************************************************************/
+/*! exports provided: PrivacyPolicyEnComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PrivacyPolicyEnComponent", function() { return PrivacyPolicyEnComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let PrivacyPolicyEnComponent = class PrivacyPolicyEnComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+PrivacyPolicyEnComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-privacy-policy-en',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./privacy-policy-en.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-en.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./privacy-policy.component.css */ "./src/app/privacy-policy/privacy-policy.component.css")).default]
+    })
+], PrivacyPolicyEnComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/privacy-policy/privacy-policy-ja.component.ts":
+/*!***************************************************************!*\
+  !*** ./src/app/privacy-policy/privacy-policy-ja.component.ts ***!
+  \***************************************************************/
+/*! exports provided: PrivacyPolicyJaComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PrivacyPolicyJaComponent", function() { return PrivacyPolicyJaComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let PrivacyPolicyJaComponent = class PrivacyPolicyJaComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+PrivacyPolicyJaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-privacy-policy-ja',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./privacy-policy-ja.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy-ja.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./privacy-policy.component.css */ "./src/app/privacy-policy/privacy-policy.component.css")).default]
+    })
+], PrivacyPolicyJaComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/privacy-policy/privacy-policy.component.css":
+/*!*************************************************************!*\
+  !*** ./src/app/privacy-policy/privacy-policy.component.css ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (".numbering {\n  margin: 0;\n  counter-reset: number;\n}\n.numbering p::before {\n  counter-increment: number;\n  content: counter(number);\n  padding-right: 5px;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcHJpdmFjeS1wb2xpY3kvcHJpdmFjeS1wb2xpY3kuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFNBQVM7RUFDVCxxQkFBcUI7QUFDdkI7QUFDQTtFQUNFLHlCQUF5QjtFQUN6Qix3QkFBd0I7RUFDeEIsa0JBQWtCO0FBQ3BCIiwiZmlsZSI6InNyYy9hcHAvcHJpdmFjeS1wb2xpY3kvcHJpdmFjeS1wb2xpY3kuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5udW1iZXJpbmcge1xuICBtYXJnaW46IDA7XG4gIGNvdW50ZXItcmVzZXQ6IG51bWJlcjtcbn1cbi5udW1iZXJpbmcgcDo6YmVmb3JlIHtcbiAgY291bnRlci1pbmNyZW1lbnQ6IG51bWJlcjtcbiAgY29udGVudDogY291bnRlcihudW1iZXIpO1xuICBwYWRkaW5nLXJpZ2h0OiA1cHg7XG59XG4iXX0= */");
+
+/***/ }),
+
+/***/ "./src/app/privacy-policy/privacy-policy.component.ts":
+/*!************************************************************!*\
+  !*** ./src/app/privacy-policy/privacy-policy.component.ts ***!
+  \************************************************************/
+/*! exports provided: PrivacyPolicyComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PrivacyPolicyComponent", function() { return PrivacyPolicyComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let PrivacyPolicyComponent = class PrivacyPolicyComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+PrivacyPolicyComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-privacy-policy',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./privacy-policy.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/privacy-policy/privacy-policy.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./privacy-policy.component.css */ "./src/app/privacy-policy/privacy-policy.component.css")).default]
+    })
+], PrivacyPolicyComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/privacy-policy/privacy-policy.module.ts":
+/*!*********************************************************!*\
+  !*** ./src/app/privacy-policy/privacy-policy.module.ts ***!
+  \*********************************************************/
+/*! exports provided: PrivacyPolicyModule */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PrivacyPolicyModule", function() { return PrivacyPolicyModule; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/fesm2015/common.js");
+/* harmony import */ var _privacy_policy_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./privacy-policy.component */ "./src/app/privacy-policy/privacy-policy.component.ts");
+/* harmony import */ var _privacy_policy_en_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./privacy-policy-en.component */ "./src/app/privacy-policy/privacy-policy-en.component.ts");
+/* harmony import */ var _privacy_policy_ja_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./privacy-policy-ja.component */ "./src/app/privacy-policy/privacy-policy-ja.component.ts");
+
+
+
+
+
+
+let PrivacyPolicyModule = class PrivacyPolicyModule {
+};
+PrivacyPolicyModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
+        declarations: [
+            _privacy_policy_component__WEBPACK_IMPORTED_MODULE_3__["PrivacyPolicyComponent"],
+            _privacy_policy_en_component__WEBPACK_IMPORTED_MODULE_4__["PrivacyPolicyEnComponent"],
+            _privacy_policy_ja_component__WEBPACK_IMPORTED_MODULE_5__["PrivacyPolicyJaComponent"],
+        ],
+        imports: [
+            _angular_common__WEBPACK_IMPORTED_MODULE_2__["CommonModule"]
+        ]
+    })
+], PrivacyPolicyModule);
+
+
+
+/***/ }),
+
+/***/ "./src/app/projects/projects.component.css":
+/*!*************************************************!*\
+  !*** ./src/app/projects/projects.component.css ***!
+  \*************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3Byb2plY3RzL3Byb2plY3RzLmNvbXBvbmVudC5jc3MifQ== */");
+
+/***/ }),
+
+/***/ "./src/app/projects/projects.component.ts":
+/*!************************************************!*\
+  !*** ./src/app/projects/projects.component.ts ***!
+  \************************************************/
+/*! exports provided: ProjectsComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ProjectsComponent", function() { return ProjectsComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+class Project {
+}
+let ProjectsComponent = class ProjectsComponent {
+    constructor() {
+        this.title = 'PizzaFactory Project';
+        this.projects = [
+            {
+                title: 'PizzaFactory/Camino',
+                summary: 'Cloud IDE PaaS for your customized Eclipse/Che workspaces.',
+                url: 'https://camino.pizzafactory.jp/',
+                tags: ['Released', 'Open Alpha Preview']
+            },
+            {
+                title: 'PizzaFactory/Contorno',
+                summary: '"Side dish" collection for Eclipse/Che7 based environments.',
+                url: 'https://contorno.pizzafactory.jp/',
+                tags: ['Released', 'Working']
+            },
+            {
+                title: 'PizzaFactory/Cassa',
+                summary: 'Payment processor SaaS based on BTCPayServer.',
+                url: 'https://btcpay.c.pizzafactory.jp/',
+                tags: ['Released', 'Open Alpha Preview']
+            },
+        ];
+    }
+    ngOnInit() {
+    }
+};
+ProjectsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-projects',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./projects.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/projects/projects.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./projects.component.css */ "./src/app/projects/projects.component.css")).default]
+    })
+], ProjectsComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/projects/projects.module.ts":
+/*!*********************************************!*\
+  !*** ./src/app/projects/projects.module.ts ***!
+  \*********************************************/
+/*! exports provided: ProjectsModule */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ProjectsModule", function() { return ProjectsModule; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/fesm2015/common.js");
+/* harmony import */ var _projects_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./projects.component */ "./src/app/projects/projects.component.ts");
+
+
+
+
+let ProjectsModule = class ProjectsModule {
+};
+ProjectsModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
+        declarations: [_projects_component__WEBPACK_IMPORTED_MODULE_3__["ProjectsComponent"]],
+        imports: [
+            _angular_common__WEBPACK_IMPORTED_MODULE_2__["CommonModule"]
+        ]
+    })
+], ProjectsModule);
 
 
 
