@@ -1,15 +1,15 @@
     <div class="container">
         <div class="section">
             <h5>Table of Projects</h5>
-	    <ng-container *ngFor="let project of projects">
+            <ng-container *ngFor="let project of projects">
                 <div class="row">
                     <div class="col s12 m6">
                         <div class="row">
                             <div class="col s12">
                                 <div class="card">
-                                    <div class="card-content">
-    					<span class="card-title">{{project.title}}</span>
-    					<p>{{project.summary}}</p>
+                                    <span class="card-title">{{project.title}}</span>
+                                    <div class="card-subtitle">
+                                      <p>{{project.summary}}</p>
                                     </div>
                                     <div class="card-action">
                                         <a href="{{project.url}}">Jump</a>
@@ -19,10 +19,6 @@
                         </div>
                     </div>
                 </div>
-	    </ng-container>
+            </ng-container>
         </div>
-    </div>
-
-    <div class="container">
-        <div class="footer-copyright">Copyright &copy; 2019- PizzaFactory Project, all rights reserved.</div>
     </div>
